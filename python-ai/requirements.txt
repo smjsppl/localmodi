@@ -1,0 +1,10 @@
+whisper
+openai-whisper
+easyocr
+pytesseract
+pillow
+flask
+flask-cors
+numpy
+opencv-python
+requests
